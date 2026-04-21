@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://churza.app';
+  const baseUrl = 'https://churza.org';
   const routes = ['', '/privacy', '/terms', '/support', '/delete-account', '/cookies'];
 
   return routes.map((route) => ({

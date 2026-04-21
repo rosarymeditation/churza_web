@@ -1,7 +1,8 @@
 const config = {
-  plugins: {
+  plugins: [{
+    require('@tailwindcss/typography'),
     "@tailwindcss/postcss": {},
-  },
+  },]
 };
 
 export default config;

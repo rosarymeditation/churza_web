@@ -10,11 +10,11 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Churza",
-    "url": "https://churza.app",
-    "logo": "https://churza.app/logo.png",
+    "url": "https://churza.org",
+    "logo": "https://churza.org/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
-      "email": "support@churza.app",
+      "email": "support@churza.org",
       "contactType": "customer support"
     }
   };

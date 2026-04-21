@@ -33,7 +33,7 @@ export default function Footer() {
           <ul className="space-y-4 text-muted text-sm">
             <li><Link href="/privacy" className="hover:text-gold">Privacy Policy</Link></li>
             <li><Link href="/terms" className="hover:text-gold">Terms of Service</Link></li>
-            <li><Link href="/cookies" className="hover:text-gold">Cookie Policy</Link></li>
+
           </ul>
         </div>
 
@@ -42,7 +42,7 @@ export default function Footer() {
           <ul className="space-y-4 text-muted text-sm">
             <li><Link href="/support" className="hover:text-gold">Help Centre</Link></li>
             <li><Link href="/delete-account" className="hover:text-gold">Delete Account</Link></li>
-            <li><a href="mailto:support@churza.app" className="hover:text-gold">support@churza.app</a></li>
+            <li><a href="mailto:support@churza.org" className="hover:text-gold">support@churza.org</a></li>
           </ul>
         </div>
       </div>
