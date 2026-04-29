@@ -24,7 +24,7 @@ export default function Navbar() {
                     <Link href="/#features" className="nav-link">Features</Link>
                     <Link href="/#pricing" className="nav-link">Pricing</Link>
                     <Link href="/support" className="nav-link">Support</Link>
-                    <Link href="#download" className="gold-btn text-sm px-5 py-2.5">Download App</Link>
+                    <Link href="https://onelink.to/498suf" className="gold-btn text-sm px-5 py-2.5">Download App</Link>
                 </div>
 
                 {/* Mobile Toggle */}
@@ -41,7 +41,7 @@ export default function Navbar() {
                         <Link href="/#features" onClick={() => setMobileMenuOpen(false)}>Features</Link>
                         <Link href="/#pricing" onClick={() => setMobileMenuOpen(false)}>Pricing</Link>
                         <Link href="/support" onClick={() => setMobileMenuOpen(false)}>Support</Link>
-                        <Link href="#download" className="gold-btn text-center mt-4">Download App</Link>
+                        <Link href="https://onelink.to/498suf" className="gold-btn text-center mt-4">Download App</Link>
                     </div>
                 </div>
             )}

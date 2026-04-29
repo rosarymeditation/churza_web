@@ -73,7 +73,7 @@ export default function Header() {
 
         {/* CTA */}
         <a
-          href="https://onelink.to/z3jkkn"
+          href="https://onelink.to/498suf"
           style={{
             background: "linear-gradient(135deg, var(--primary-dark), var(--primary-soft))",
             color: "white",
